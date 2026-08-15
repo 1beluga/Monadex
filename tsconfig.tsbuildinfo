@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/constants.ts","./src/main.tsx","./src/types.ts","./src/components/DetailPanel.tsx","./src/components/Header.tsx","./src/components/Loader.tsx","./src/components/Logo.tsx","./src/components/PokemonCard.tsx","./src/components/PokemonGrid.tsx","./src/components/TypeFilters.tsx","./src/hooks/useFlavorText.ts"],"version":"5.9.3"}

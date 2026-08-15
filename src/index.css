@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'PokemonGB';
+  src: url('/fonts/PokemonGB.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-pokemon {
+  font-family: 'PokemonGB', monospace;
+}
